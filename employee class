@@ -1,0 +1,14 @@
+class Employee:
+pass
+
+emp_1 = Employee()
+emp_2 = Employee()
+
+emp_1.first = "Cassandra"
+emp_1.last = "Bitchins"
+
+emp_2.first = "Kevin"
+emp_2.last = "Incel'
+
+print(emp_1.first)
+print(emp_2.first)
